@@ -1,4 +1,4 @@
-# Kara Richard – Environmental and Physiological Exposure Archive
+# K.Richard – Environmental and Physiological Exposure Archive
 
 This repository contains timestamped documentation of environmental particle exposure and corresponding biological responses. The primary research tracks the interaction between ingested and topical titanium dioxide (TiO₂) and the body's photoreceptive, neurological, and cellular systems.
 
