@@ -149,3 +149,29 @@ This repository includes a limited set of visual and timestamped materials to su
 - Verification Timestamp: Bitcoin Block #887698 (March 13, 2025)
 - Minimum Access Tier: $5,000 USD (CELO or ETH)
 All access is recorded and monitored via on-chain license terms.
+# Magnetic
+
+**Magnetic** is an independent research project studying how sunlight, topical oils, and detoxification interact with human biology—especially skin, vascular structures, and nervous system behavior.
+
+## 🔬 Research Topics
+- Light visibility through skin and veins during detox
+- Eye whitening and facial changes under sunlight exposure
+- Titanium dioxide's interference with biological light absorption
+- Structured light behavior during castor oil + solar contact
+
+## 📁 Access to Research Materials
+
+All full documentation (photos, logs, image comparisons, field notes, submission proof, and archives) is stored in a private iCloud folder.
+
+🛑 To access it, please email your request to:  
+📩 **[kararichard92@icloud.com]** *(replace with your contact)*
+
+Include your full name and reason for request. Access is granted selectively to protect research integrity.
+
+## Submission Verification
+- Gitcoin Builder submission: March 23, 2025  
+- Polygon Transaction: `0xf5c8ea...a11fe6f`  
+- CELO Wallet: `0x51295...A178`
+
+## Current Status
+The project is transitioning from a symbolic framing to a grounded biological and photonic protocol under the new name **Magnetic**. All systems are now being publicly documented through GitHub, with secure private storage for core data.
