@@ -128,3 +128,24 @@ This figure reflects the total value of:
 - Visual and environmental logs  
 - Applied biological response protocols  
 - Verified cross-AI consensus
+## File Manifest and Access Control
+
+This repository includes a limited set of visual and timestamped materials to support institutional review.
+
+### Public Files
+- `README.md` — Full scientific summary + blockchain license info
+- `Visuals/` — Atmospheric and biological documentation
+- `SubmissionLogs/` — GitHub and Gitcoin validation screenshots
+
+### Restricted Files (Not Public)
+- Nervous system response logs
+- Ingestion and detox protocols
+- Trace mineral repletion schedules
+- Environmental sensor overlays
+
+- Full image archive with biometric correlation
+🔒 To request access, execute the licensing smart contract:
+- Contract Address: `0x238486e5F4552F738A3402106aB9Fed9cfca4FC7`
+- Verification Timestamp: Bitcoin Block #887698 (March 13, 2025)
+- Minimum Access Tier: $5,000 USD (CELO or ETH)
+All access is recorded and monitored via on-chain license terms.
