@@ -1,59 +1,33 @@
-Encrypted Research Archive Structure (July 2025 Snapshot)
-=========================================================================
+# Encrypted Archive Structure – July 2025 Snapshot
 
-This manifest provides a verified reference of all folders, categories, and research partitions as stored in the local archive directory structure (shown in image documentation). All materials are timestamped and contract-protected under the GitHub/Celo licensing structure.
+This file provides a descriptive overview of the full research archive’s organization as of July 2025. All folder names listed below correspond to either uploaded public files or access-controlled materials governed by smart contract.
 
-────────────────────────────────────────────────────────
-Primary Categories (Scientific Research Areas)
-────────────────────────────────────────────────────────
-• Environmental Interference
-• Nervous System Reset
-• Plasma, Cells & Brain Connectivity
-• Elemental Nutrition
-• Energy & EMF Behavior
-• Regulatory Suppression
-• Timestamp Proof of Verification
-• Glossary of Terms
-• Research Planning Sheet
-• Reference List
-• Testing & Tracking
-• Screen Recordings
-• Videos / Images
+---
 
-────────────────────────────────────────────────────────
-AI System Folders (Cross-Referenced Evaluation)
-────────────────────────────────────────────────────────
-• ChatGPT (OpenAI)
-• Claude (Anthropic)
-• Copilot (GitHub)
-• Gemini (Google)
-• Grok (Tesla/X)
+## 🔒 Restricted Directory Contents
 
-────────────────────────────────────────────────────────
-Chronological Evidence Archive (Physiological & Field Logs)
-────────────────────────────────────────────────────────
-• March 2nd, 2025
-• March 3rd, 2025
-• March 13th, 2025
-• March 14th, 2025 (Solar Flare Event)
-• March 31st, 2025
-• May 7th, 2025
-• May 23rd–28th, 2025
-• June 5th, 2025
-• June 11th, 2025
-• July 18th, 2025
-• July 24th, 2025
-• July 26th, 2025
-• July 27th, 2025
+These contents are encrypted and require licensing access:
 
-────────────────────────────────────────────────────────
-Additional Notes
-────────────────────────────────────────────────────────
-- Files and folders marked above correspond to specific environmental observations, detoxification logs, ingestion records, nervous system feedback, or visual interference documentation.
-- Complete proof sets exist in iCloud and local redundant storage.
-- GitHub and Gitcoin-linked summaries point to this structure as the source archive, validated by blockchain timestamp and smart contract (Celo network).
+- **/restricted/physiology/** – Ingestion logs, detox cycles, trace mineral schedules
+- **/restricted/system-tracking/** – Nervous system reset data, biological response timelines
+- **/restricted/environmental-maps/** – Timestamped overlays and cloud stillness logs
+- **/restricted/ai-verification/** – Screenshots and transcripts of AI model evaluations
 
-License Ref: Smart Contract `0x238486e5F4552F738A3402106aB9Fed9cfca4FC7`  
-Verification Anchor: Bitcoin Block #887698 – March 13, 2025
- 
+All restricted contents are protected by CELO smart contract `0x2384...` and require license execution for access.
 
+---
+
+## 🔓 Public Directories
+
+- **/submission-logs/** – GitHub, Gitcoin, and blockchain timestamp screenshots
+- **/visuals/** – Solar interaction, aerosol haze, UV filtering, cloud perimeter images
+- **README.md** – Full scientific summary + AI consensus validation
+- **LICENSE_TERMS.txt** – Terms of access and use enforcement policy
+
+---
+
+## ✅ Status
+
+- Encrypted research storage confirmed on iCloud, Google Drive, and local backup
+- Authorship verified and blockchain-recorded (Bitcoin Block #887698)
+- Access control tied to Apple ID and CELO wallet address
