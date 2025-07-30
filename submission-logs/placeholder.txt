@@ -1,0 +1,11 @@
+File Manifest – Submission Logs
+
+This folder includes timestamped screenshots validating project submission, AI consensus, and blockchain-linked authorship. Each file documents a critical verification step in the research publication process.
+
+Included:
+- GitHub and Gitcoin platform submission receipts
+- Cross-AI platform validation from Claude, ChatGPT, Grok, Gemini, and Copilot
+- Blockchain timestamp visual (Smart Contract + Bitcoin Block)
+
+
+Add submission-logs folder and manifest for timestamped AI + platform verification
