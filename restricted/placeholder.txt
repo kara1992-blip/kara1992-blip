@@ -1,0 +1,20 @@
+Restricted Archive Manifest – Access Controlled Materials
+
+This folder contains encrypted or paywalled files protected by a smart contract on the Celo blockchain. These materials are excluded from public access due to licensing, reproducibility integrity, and exposure control requirements.
+
+Contents include:
+- Full detox protocol sequences and ingestion logs
+- Nervous system symptom response trackers
+- Trace mineral intervention data (gold, copper, magnesium)
+- High-resolution solar occlusion overlays
+- File-matched environment-behavior correlation charts
+
+🛡️ Access requires:
+- Smart contract interaction at: `0x238486e5F4552F738A3402106aB9Fed9cfca4FC7`
+- Minimum tier: $5,000 USD equivalent (CELO or ETH)
+- Access is time-bound, encrypted, and recorded on-chain
+- Unauthorized use will result in permanent denial and traceable violation log
+
+Contact is optional. All licensing is governed autonomously via verified chain record.
+
+Add restricted data manifest and licensing control notice
