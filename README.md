@@ -144,27 +144,27 @@ This repository includes a limited set of visual and timestamped materials to su
 - Environmental sensor overlays
 
 - Full image archive with biometric correlation
-🔒 To request access, execute the licensing smart contract:
+To request access, execute the licensing smart contract:
 - Contract Address: `0x238486e5F4552F738A3402106aB9Fed9cfca4FC7`
 - Verification Timestamp: Bitcoin Block #887698 (March 13, 2025)
 - Minimum Access Tier: $5,000 USD (CELO or ETH)
 All access is recorded and monitored via on-chain license terms.
-# Magnetic
+#Magnetic
 
 **Magnetic** is an independent research project studying how sunlight, topical oils, and detoxification interact with human biology—especially skin, vascular structures, and nervous system behavior.
 
-## 🔬 Research Topics
+##Research Topics
 - Light visibility through skin and veins during detox
 - Eye whitening and facial changes under sunlight exposure
 - Titanium dioxide's interference with biological light absorption
 - Structured light behavior during castor oil + solar contact
 
-## 📁 Access to Research Materials
+##Access to Research Materials
 
 All full documentation (photos, logs, image comparisons, field notes, submission proof, and archives) is stored in a private iCloud folder.
 
-🛑 To access it, please email your request to:  
-📩 **[kararichard92@icloud.com]** *(replace with your contact)*
+To access it, please email your request to:  
+ **[kararichard92@icloud.com]**
 
 Include your full name and reason for request. Access is granted selectively to protect research integrity.
 
